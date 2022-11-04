@@ -1,9 +1,0 @@
-<!--or-->
-<?$CDROM=($HDD=="Maxtor"?"Teac":"Nec";?>
-
-$submit = $_POST['submit'];
-   $name = $_POST['name'];
-   $surname = $_POST['surname'];
-   $email = $_POST['email'];
-   $zip_code = $_POST['zip_code'];
-   $favorite_subject = $_POST['favorite_subject'];
