@@ -1,0 +1,9 @@
+<?
+if($HDD=="Maxtor")
+{
+   $CDROM="Teac";
+}
+else
+{
+   $CDROM="Nec";
+}
